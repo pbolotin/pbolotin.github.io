@@ -1,0 +1,121 @@
+/* Header */
+BODY.Header {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url("Temporary/Back_Header.jpg");
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+BODY.Header A:link {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Header A:visited {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Header A:hover {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Header A:active {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+P.Header {
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+/* Menu */
+BODY.Menu {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url("Temporary/Back_Menu.jpg");
+	background-repeat: no-repeat;
+}
+
+BODY.Menu A:link {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Menu A:visited {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Menu A:hover {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY.Menu A:active {
+	text-decoration: none;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+BODY TABLE.Menu {
+	margin-left: 10px;
+}
+
+TD.Constellation {
+	padding: 10px;
+}
+/* Main */
+BODY.Main {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url("Temporary/Back_Main.jpg");
+	background-repeat: no-repeat;
+}
+/* Footer */
+BODY.Footer {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+/* Constellation*/
+BODY.Constellation {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url("Temporary/Back_Main.jpg");
+	background-repeat: no-repeat;
+}
+/* About */
+BODY.About {
+	background-attachment: fixed;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url("Temporary/Back_Main.jpg");
+	background-repeat: no-repeat;
+}
+
+DIV.Text {
+	margin-left: 100px;
+	padding: 50px;
+	background: rgba(0, 12, 25, .5);
+	width: 70%;
+}
+
+DIV.Text P {
+	color: #FFFFFF;
+}
